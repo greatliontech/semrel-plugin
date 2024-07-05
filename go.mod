@@ -1,4 +1,4 @@
-module github.com/greatliontech/semrel-plugin/go
+module github.com/greatliontech/semrel-plugin
 
 go 1.22.4
 
